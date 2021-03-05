@@ -3,7 +3,7 @@
 Este é um software escrito em C ++ que simula uma urna eletronica de votação.
 
 
-JavaScript/ CSS /  bootstrap / jquery
+C++
 ## Sobre este repositório
 
 Este é um software escrito em C ++ que simula uma urna eletronica de votação.
