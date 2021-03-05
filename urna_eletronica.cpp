@@ -4,7 +4,11 @@ Existem dois candidatos: 1-Ze, 2-Toin. Voto=0 sera voto em branco e qualquer
 outra opcao e voto nulo. A urna sera finalizada com qualquer numero negativo,
 e informa a quantidade de votos de cada candidato alem dos brancos e nulos.
 */
-
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 #include<iostream>
 
 using namespace std;
